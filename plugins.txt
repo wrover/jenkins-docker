@@ -1,0 +1,15 @@
+git:latest
+docker:latest
+gradle:latest
+ant:latest
+workflow-aggregator:latest
+pipeline-stage-view:latest
+matrix-auth:latest
+email-ext:latest
+ssh-credentials:latest
+ssh-slaves:latest
+cloudbees-folder:latest
+build-timeout:latest
+credentials-binding:latest
+timestamper:latest
+ws-cleanup:latest
